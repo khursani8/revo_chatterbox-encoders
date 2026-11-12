@@ -1,3 +1,5 @@
+> **Unique:** Standalone pip package extracting Chatterbox's non-LLM audio stack (S3Tokenizer FSQ speech tokens, S3Gen decoder, VoiceEncoder, Perceiver Resampler) for audio-to-tokens-to-audio reconstruction and manual Chatterbox LLM input preparation.
+
 # Chatterbox Encoders - Standalone Package
 
 **Audio → Speech Tokens → Audio** reconstruction package.
